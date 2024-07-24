@@ -13,6 +13,9 @@
     "paths": {
       "ngx-age": [
         "./dist/ngx-age"
+      ],
+      "ngx-time-since": [
+        "./dist/ngx-time-since"
       ]
     },
     "esModuleInterop": true,
