@@ -1,6 +1,26 @@
 {
   "name": "ngx-time-since",
   "version": "0.0.1",
+  "license": "MIT",
+  "description": "Angular v17 Pipe that transforms a date value into a textual description of elapsed time since the date.",
+  "repository": {
+    "url": "https://github.com/ChadESmith42/ngx-packages/tree/main/projects/ngx-time-since"
+  },
+  "bugs": {
+    "url": "https://github.com/ChadESmith42/ngx-packages/issues"
+  },
+  "author": {
+    "name": "Chad Smith",
+    "email": "chad.e.smith@outlook.com",
+    "url": "https://codingbychad.com"
+  },
+  "keywords": [
+    "Angular",
+    "Pipe",
+    "Time Since Pipe",
+    "Date Transformation",
+    "String Transformation"
+  ],
   "peerDependencies": {
     "@angular/common": "^17.3.0",
     "@angular/core": "^17.3.0"

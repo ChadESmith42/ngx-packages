@@ -16,7 +16,10 @@
   },
   "description": "Angular v17 Pipe for transforming a Date or String date value as age in years.",
   "repository": {
-    "url": "https://github.com/ChadESmith42/npx-packages/tree/main/projects/ngx-age"
+    "url": "https://github.com/ChadESmith42/ngx-packages/tree/main/projects/ngx-age"
+  },
+  "bugs": {
+    "url": "https://github.com/ChadESmith42/ngx-packages/issues"
   },
   "keywords": [
     "Angular",
@@ -24,5 +27,6 @@
     "Age Pipe",
     "Date Transformation",
     "String Transformation"
-  ]
+  ],
+  "license": "MIT"
 }
