@@ -22,7 +22,7 @@ Given a `birthDate` variable with the date of 1/1/2000 in the template:
 You may also pass a string date into the pipe:
 
 ```html
-<span>{{ '6/21/1999 | age }}</span>
+<span>{{ '6/21/1999' | age }}</span>
 ```
 
 The pipe will render the current age in the DOM.
